@@ -50,8 +50,9 @@ During hyperparameter optimization, we employ Bayesian hyperparameter optimizati
 + [Tao Hu](https://github.com/NianSan-H)
 + [Chunbao Feng](https://lxy.cqupt.edu.cn/info/1191/6711.htm)
 
-This Project was supported by Beijing Institute of Technology Research Fund Program for Young Scholars (Grant No. XSQD-202222008) and Guangdong Key Laboratory of Electronic Functional Materials and Devices Open Fund (EFMD2023004M).
-
 ## How to cite
 1. **Gang Tang***, Xiaohan Liu, Shihao Wang, Tao Hu, Chunbao Feng, Cheng Zhu, Bonan Zhu, and Jiawang Hong*, Designing antiperovskite derivatives via atomic-position splitting for photovoltaic applications, [Mater. Horiz. DOI:10.1039/D4MH00526K (2024)](https://doi.org/10.1039/D4MH00526K).
 2. Qi Ren, Dali Chen, Lixiang Rao, Yingzhuo Lun, **Gang Tang***, and Jiawang Hong*, Machine-learning-assisted discovery of 212-Zintl-phase compounds with ultra-low lattice thermal conductivity, [J. Mater. Chem. A, 12, 1157-1165 (2024)](https://doi.org/10.1039/D3TA05690B).
+
+## Acknowledgments
+This Project was supported by Beijing Institute of Technology Research Fund Program for Young Scholars (Grant No. XSQD-202222008) and Guangdong Key Laboratory of Electronic Functional Materials and Devices Open Fund (EFMD2023004M).
